@@ -13,6 +13,8 @@ sites:
     url: https://news.google.com/topstories?hl=zh-TW&gl=TW&ceid=TW:zh-Hant
   - name: voiceTube
     url: https://tw.voicetube.com/
+   - name: fakesite
+    url: https://kfpasjdw.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
