@@ -13,7 +13,7 @@ sites:
     url: https://news.google.com/topstories?hl=zh-TW&gl=TW&ceid=TW:zh-Hant
   - name: voiceTube
     url: https://tw.voicetube.com/
-   - name: fakesite
+  - name: fakesite
     url: https://kfpasjdw.com/
 
 status-website:
